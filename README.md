@@ -1,4 +1,4 @@
-# IS2026 Spring - PROJECT VECTOR
+# IS2026 SUMMER - PROJECT VECTOR
 ___
 
 ## Problem Statement
