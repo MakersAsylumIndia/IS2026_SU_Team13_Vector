@@ -41,8 +41,13 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._
->[Vidyut Sundar](https://github.com/vidyutsundar-cloud)
->Anjali Randery
->Saanvi Singh
->[Maker's Asylum](https://github.com/MakersAsylumIndia)
-> ---
+ 
+[Vidyut Sundar](https://github.com/vidyutsundar-cloud)
+
+Anjali Randery
+
+Saanvi Singh
+
+[Maker's Asylum](https://github.com/MakersAsylumIndia)
+
+---
